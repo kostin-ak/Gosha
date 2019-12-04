@@ -4,68 +4,68 @@
 
 Для использования требуются модули:
 
-argparse
+  argparse
 
-newsapi-python
+  newsapi-python
 
-wikipedia-api
+  wikipedia-api
 
-vk_api
+  vk_api
 
-pandas
+  pandas
 
-pygame
+  pygame
 
-pyaudio
+  pyaudio
 
-pywin32
+  pywin32
 
-pypiwin32
+  pypiwin32
 
-speechrecognition
+  speechrecognition
 
-pyttsx3
+  pyttsx3
 
-Plyer
+  Plyer
 
-bs4
+  bs4
 
-urllib
+  urllib
 
-PyOWM 
+  PyOWM 
 
 
 Которые можно установить благодаря командам:
 
-pip install argparse
+  pip install argparse
 
-pip install newsapi-python
+  pip install newsapi-python
 
-pip install wikipedia-api
+  pip install wikipedia-api
 
-pip install vk_api
+  pip install vk_api
 
-pip install pandas
+  pip install pandas
 
-pip install pygame
+  pip install pygame
 
-pip install pyaudio
+  pip install pyaudio
 
-pip install pywin32
+  pip install pywin32
 
-pip install pypiwin32
+  pip install pypiwin32
 
-pip install speechrecognition
+  pip install speechrecognition
 
-pip install pyttsx3
+  pip install pyttsx3
 
-pip install Plyer
+  pip install Plyer
 
-pip install bs4
+  pip install bs4
 
-pip install urllib
+  pip install urllib
 
-pip install PyOWM
+  pip install PyOWM
 
 
 Или воспользовавшись .bat файлом с именем modul в папке /bin.
@@ -74,7 +74,7 @@ PS: Полно багов и личных строк, а также проект
 
 PPS: Ключи запуска:
 
-                  -dbg(Debug)
+<pre>                  -dbg(Debug)
                   
-                  -GUI(GUI)
+                  -GUI(GUI)</pre>
                   
