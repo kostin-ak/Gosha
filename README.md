@@ -74,7 +74,7 @@ PS: Полно багов и личных строк, а также проект
 
 PPS: Ключи запуска:
 
-<pre>                  -dbg(Debug)
+<p>                -dbg(Debug)</p>
                   
-                  -GUI(GUI)</pre>
+<p>                -GUI(GUI)</p>
                   
